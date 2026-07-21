@@ -12,6 +12,12 @@
 <p align="center">
   <a href="https://my-portfolio-5g4o.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:kamanzisamuel3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/250799393729"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samuell-k&label=Profile%20Views&color=2E86C1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/samuell-k?label=Followers&style=flat-square&color=2E86C1" alt="Followers" />
 </p>
 
 ---
@@ -63,6 +69,25 @@ I'm also passionate about **training others** — simplifying complex technical 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuell-k&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E86C1&icon_color=2E86C1" alt="Samuel's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuell-k&layout=compact&hide_border=true&title_color=2E86C1&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samuell-k&hide_border=true&stroke=2E86C1&ring=2E86C1&fire=2E86C1" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuell-k&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+> 💡 *Note: these widgets update automatically as I push code — the more I commit, the more they fill in!*
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🏢 Extended ERP System for Business Management
@@ -88,17 +113,6 @@ A complete hotel management platform with room booking, guest registration, bill
 
 ---
 
-### 💼 Experience
-
-| Role | Company |
-|---|---|
-| Full Stack Developer & IT Lead | Ikigugu Group Ltd |
-| Full Stack Developer | Infinity Solution Tech Ltd |
-| Developer Intern | Infinity Solution Tech Ltd |
-| IT Support Officer | Afri-Farmers Market |
-
----
-
 ### 🎓 Education & Certifications
 
 - **Advanced Diploma in Information Technology** — RP-Tumba College
@@ -110,9 +124,17 @@ A complete hotel management platform with room booking, guest registration, bill
 
 ### 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:kamanzisamuel3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://my-portfolio-5g4o.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://wa.me/250799393729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>💬 Ask me about React, Node.js, PostgreSQL, or AI-augmented development</i><br/>
+  <i>🤝 Open to collaboration on open-source, AI tools, and full-stack projects</i>
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
