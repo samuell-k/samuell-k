@@ -22,20 +22,20 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a results-driven **Full Stack Developer** and **AI Practitioner** with hands-on experience in software development, IT leadership, and AI-augmented professional work. I build scalable web applications using the **MERN** and **PERN** stacks, lead technical teams, and apply AI tools to boost productivity and decision-making.
 
 I'm also passionate about **training others** — simplifying complex technical and AI concepts for professionals, entrepreneurs, and non-technical audiences. Fluent in English and Kinyarwanda 🇷🇼.
 
-- 🔭 Currently sharpening my skills in **React, Bootstrap, and AI development techniques**
-- 🌱 Completed the **ALX Africa AI Career Essentials Certificate**
-- 🤝 Open to collaborating on **open-source projects, coding tutorials, and AI-based projects**
-- ⚡ Fun fact: I love building efficient, scalable web applications!
+- Currently sharpening my skills in **React, Bootstrap, and AI development techniques**
+- Completed the **ALX Africa AI Career Essentials Certificate**
+- Open to collaborating on **open-source projects, coding tutorials, and AI-based projects**
+- Fun fact: I love building efficient, scalable web applications!
 
 ---
 
-### 🛠️ Tech Stack
+###Tech Stack
 
 **Languages & Frameworks**
 <p>
@@ -69,32 +69,32 @@ I'm also passionate about **training others** — simplifying complex technical 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🏢 Extended ERP System for Business Management
+#### Extended ERP System for Business Management
 *Lead Full Stack Developer*
 A comprehensive ERP solution integrating HR, Payroll, Inventory, Procurement, Sales & CRM, Accounting, Role-Based Access, and a Business Analytics Dashboard.
 **Tech:** React.js, Node.js, Express.js, PostgreSQL, MongoDB, REST APIs
 **Impact:** Improved business process automation and enabled centralized data management and reporting.
 
-#### 🏨 Hotel & Accommodation Management System
+#### Hotel & Accommodation Management System
 *Full Stack Developer*
 A complete hotel management platform with room booking, guest registration, billing & payments, CRM, staff management, and reporting.
 **Tech:** MERN Stack, PostgreSQL, Firebase
 **Impact:** Simplified hotel operations and improved reservation tracking and financial reporting.
 
-#### 📦 More Projects
+#### More Projects
 - Inventory Management Systems
 - Business Management Dashboards
 - RESTful API Services
 - Authentication & Role-Based Access Systems
 - Mobile Application Integrations
 
-👉 See all of these in detail on my [Portfolio](https://my-portfolio-5g4o.onrender.com)
+See all of these in detail on my [Portfolio](https://my-portfolio-5g4o.onrender.com)
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **Advanced Diploma in Information Technology** — RP-Tumba College
 - **High School Certificate in Software Development (SOD)** — TVET Mutovu
@@ -103,7 +103,7 @@ A complete hotel management platform with room booking, guest registration, bill
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:kamanzisamuel3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -115,7 +115,7 @@ A complete hotel management platform with room booking, guest registration, bill
 
 <p align="center">
   <i>💬 Ask me about React, Node.js, PostgreSQL, or AI-augmented development</i><br/>
-  <i>🤝 Open to collaboration on open-source, AI tools, and full-stack projects</i>
+  <i>Open to collaboration on open-source, AI tools, and full-stack projects</i>
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
