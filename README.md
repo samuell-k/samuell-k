@@ -69,25 +69,6 @@ I'm also passionate about **training others** — simplifying complex technical 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuell-k&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E86C1&icon_color=2E86C1" alt="Samuel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuell-k&layout=compact&hide_border=true&title_color=2E86C1&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samuell-k&hide_border=true&stroke=2E86C1&ring=2E86C1&fire=2E86C1" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samuell-k&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-> 💡 *Note: these widgets update automatically as I push code — the more I commit, the more they fill in!*
-
----
-
 ### 🚀 Featured Projects
 
 #### 🏢 Extended ERP System for Business Management
