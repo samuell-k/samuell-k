@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Kamanzi</h1>
+<h1 align="center">Hi 👋, I'm Samuell-k</h1>
 <h3 align="center">Full Stack Developer | AI Practitioner | IT Lead</h3>
 
 <p align="center">
