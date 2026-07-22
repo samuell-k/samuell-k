@@ -26,7 +26,7 @@
 
 I'm a results-driven **Full Stack Developer** and **AI Practitioner** with hands-on experience in software development, IT leadership, and AI-augmented professional work. I build scalable web applications using the **MERN** and **PERN** stacks, lead technical teams, and apply AI tools to boost productivity and decision-making.
 
-I'm also passionate about **training others** — simplifying complex technical and AI concepts for professionals, entrepreneurs, and non-technical audiences. Fluent in English and Kinyarwanda 🇷🇼.
+I'm also passionate about **training others** — simplifying complex technical and AI concepts for professionals, entrepreneurs, and non-technical audiences. Fluent in English.
 
 - Currently sharpening my skills in **React, Bootstrap, and AI development techniques**
 - Completed the **ALX Africa AI Career Essentials Certificate**
@@ -96,8 +96,8 @@ See all of these in detail on my [Portfolio](https://my-portfolio-5g4o.onrender.
 
 ### Education & Certifications
 
-- **Advanced Diploma in Information Technology** — RP-Tumba College
-- **High School Certificate in Software Development (SOD)** — TVET Mutovu
+- **Advanced Diploma in Information Technology**
+- **High School Certificate in Software Development (SOD)** 
 - **AI Career Essentials Certificate** — ALX Africa
 - **Professional Training in AI-Augmented Workflows and Career Development**
 
